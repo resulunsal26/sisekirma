@@ -1,0 +1,7 @@
+Bu hpercasual türünde bir oyundur.Oyun amacımız şişeleri kutuya sokmaktır.Oyun içi görüntüler "game pictures " adlı dosyada mevcuttur.Oyunnun kendisi output dosyasında mevcuttur.
+
+
+
+
+Oyun içi kontroller
+w/a/s/d/yön tuşları: kutu hareketi
